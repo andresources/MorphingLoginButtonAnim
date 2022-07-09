@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/drawable/bg_rounded.xml" value="0.1638888888888889" />
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/drawable/sign_in_button.xml" value="0.15925925925925927" />
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/layout/a1_activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/layout/a1_activity_new.xml" value="0.17552083333333332" />
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/layout/activity_a2_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/layout/activity_a2_new.xml" value="0.17552083333333332" />
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/layout/activity_main.xml" value="0.16145833333333334" />
+        <entry key="..\:/Learning/MorphingLoginButtonAnim/app/src/main/res/layout/my_loding_button_layout.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
